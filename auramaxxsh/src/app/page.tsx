@@ -1,0 +1,38 @@
+import type { Metadata } from 'next';
+import UnlockPageClient from './UnlockPageClient';
+
+const SEO_TITLE = 'auramaxx.sh';
+const SEO_DESCRIPTION = 'THE APPLE KEYCHAIN FOR AI AGENTS. share passwpords, api keys, and credit cards with OpenClaw, Claude, Codex, Gemini,etc';
+
+export const metadata: Metadata = {
+  title: SEO_TITLE,
+  description: SEO_DESCRIPTION,
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    url: '/',
+    siteName: SEO_TITLE,
+    title: SEO_TITLE,
+    description: SEO_DESCRIPTION,
+    images: [
+      {
+        url: '/opengraph.webp',
+        width: 1512,
+        height: 982,
+        alt: SEO_TITLE,
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: SEO_TITLE,
+    description: SEO_DESCRIPTION,
+    images: ['/opengraph.webp'],
+  },
+};
+
+export default function Page() {
+  return <UnlockPageClient />;
+}

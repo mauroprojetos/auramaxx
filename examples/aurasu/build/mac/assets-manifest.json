@@ -1,0 +1,240 @@
+{
+  "schema": "aurajs.asset-manifest.v1",
+  "runtimeResolver": "disk",
+  "mode": "sibling",
+  "manifestHash": "92001b4d07e7621d4185087af1025f750ebec0af",
+  "pack": null,
+  "entries": [
+    {
+      "path": "approachcircle.png",
+      "kind": "image",
+      "sizeBytes": 4782,
+      "sha1": "bfd729126c0dd14b60e5c88f78044e1baa3c9c18",
+      "file": "assets/approachcircle.png"
+    },
+    {
+      "path": "aurasu.jpg",
+      "kind": "image",
+      "sizeBytes": 466622,
+      "sha1": "8630eccf9e67910e21193b978b5010c87dff212c",
+      "file": "assets/aurasu.jpg"
+    },
+    {
+      "path": "Aurasu.note-timings.csv",
+      "kind": "text",
+      "sizeBytes": 11606,
+      "sha1": "c6fecfd78ce7c0cde716dd4d5b5556f7a82344af",
+      "file": "assets/Aurasu.note-timings.csv"
+    },
+    {
+      "path": "Aurasu.timing.json",
+      "kind": "json",
+      "sizeBytes": 903,
+      "sha1": "9b9168e627cf286c324e7a5a5f57a90c8add9267",
+      "file": "assets/Aurasu.timing.json"
+    },
+    {
+      "path": "Aurasu.wav",
+      "kind": "audio",
+      "sizeBytes": 34177102,
+      "sha1": "abe02a12efcb8bc67bd714229c36a839eb218eb7",
+      "file": "assets/Aurasu.wav"
+    },
+    {
+      "path": "aurasu1.jpg",
+      "kind": "image",
+      "sizeBytes": 466622,
+      "sha1": "8630eccf9e67910e21193b978b5010c87dff212c",
+      "file": "assets/aurasu1.jpg"
+    },
+    {
+      "path": "combo-break.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "06ad6dba44fc1ad8ee550b43e107f6ccc40f46e0",
+      "file": "assets/combo-break.wav"
+    },
+    {
+      "path": "cursor.png",
+      "kind": "image",
+      "sizeBytes": 666,
+      "sha1": "49aeedd5b06f1ec3fbbacbb24a9d94448fcd723c",
+      "file": "assets/cursor.png"
+    },
+    {
+      "path": "cursortrail.png",
+      "kind": "image",
+      "sizeBytes": 450,
+      "sha1": "1c1ea8cd31fd4d056f761f5649e6e3e58ea533ca",
+      "file": "assets/cursortrail.png"
+    },
+    {
+      "path": "followpoint.png",
+      "kind": "image",
+      "sizeBytes": 420,
+      "sha1": "d20b30337d8875283b0edeea4e3b31adaa76c1d7",
+      "file": "assets/followpoint.png"
+    },
+    {
+      "path": "GeneralSans-Bold.otf",
+      "kind": "font",
+      "sizeBytes": 43260,
+      "sha1": "7c66f9cd8c3240fde8504746b849217901adfea1",
+      "file": "assets/GeneralSans-Bold.otf"
+    },
+    {
+      "path": "GeneralSans-BoldItalic.otf",
+      "kind": "font",
+      "sizeBytes": 45060,
+      "sha1": "d3885be3b71de2af7665882d9189ada24f0b3e29",
+      "file": "assets/GeneralSans-BoldItalic.otf"
+    },
+    {
+      "path": "hit-clap.wav",
+      "kind": "audio",
+      "sizeBytes": 192078,
+      "sha1": "ef949cb28ea0a3c689dc105d8bfd534339eda725",
+      "file": "assets/hit-clap.wav"
+    },
+    {
+      "path": "hit-finish.wav",
+      "kind": "audio",
+      "sizeBytes": 192078,
+      "sha1": "d74b33c1a311442b84d6106c7d1f1cca14b33fe4",
+      "file": "assets/hit-finish.wav"
+    },
+    {
+      "path": "hit-miss.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "c22c5f120e498891251b73e24056b0cdd0342cd4",
+      "file": "assets/hit-miss.wav"
+    },
+    {
+      "path": "hit-normal.wav",
+      "kind": "audio",
+      "sizeBytes": 192078,
+      "sha1": "df3394c172ee985ce0336b3e6c469d0e3704f1a4",
+      "file": "assets/hit-normal.wav"
+    },
+    {
+      "path": "hit-whistle.wav",
+      "kind": "audio",
+      "sizeBytes": 192078,
+      "sha1": "2ce530724729af78a373b4f90f03c0f7dbb85b6f",
+      "file": "assets/hit-whistle.wav"
+    },
+    {
+      "path": "hitburst_sheet.png",
+      "kind": "image",
+      "sizeBytes": 4237,
+      "sha1": "61deeaa17794e074912da91b46fb6535172a9e74",
+      "file": "assets/hitburst_sheet.png"
+    },
+    {
+      "path": "hitcircle.png",
+      "kind": "image",
+      "sizeBytes": 4960,
+      "sha1": "922d0c98c381c4c513f392faa1747c16afa371b7",
+      "file": "assets/hitcircle.png"
+    },
+    {
+      "path": "hitcircleoverlay.png",
+      "kind": "image",
+      "sizeBytes": 4785,
+      "sha1": "0d634b29f97b7fdd35b996b19eb395879d0c47a2",
+      "file": "assets/hitcircleoverlay.png"
+    },
+    {
+      "path": "icon.png",
+      "kind": "image",
+      "sizeBytes": 574673,
+      "sha1": "c17f3a5b05b9e36b27dda1a9e91efbdcdadb9025",
+      "file": "assets/icon.png"
+    },
+    {
+      "path": "judgement-100.png",
+      "kind": "image",
+      "sizeBytes": 1893,
+      "sha1": "c0c2a965b44c34da3b7b73382ae58a91c268574c",
+      "file": "assets/judgement-100.png"
+    },
+    {
+      "path": "judgement-300.png",
+      "kind": "image",
+      "sizeBytes": 2636,
+      "sha1": "d2f60df5712ca017063f16f1ca8d0ff6d6b61ac7",
+      "file": "assets/judgement-300.png"
+    },
+    {
+      "path": "judgement-50.png",
+      "kind": "image",
+      "sizeBytes": 2286,
+      "sha1": "461568511f8ad463edb7eeb831f55fde92360180",
+      "file": "assets/judgement-50.png"
+    },
+    {
+      "path": "judgement-miss.png",
+      "kind": "image",
+      "sizeBytes": 2524,
+      "sha1": "28079661afebcd170ae698b5ca4ffd4e556c8d37",
+      "file": "assets/judgement-miss.png"
+    },
+    {
+      "path": "slider-end.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "0348bd4e70f32af4ecb1ea5350e6469d1926c408",
+      "file": "assets/slider-end.wav"
+    },
+    {
+      "path": "slider-start.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "a9b5f3861867f1d251edbd6efc5a8010e4081e64",
+      "file": "assets/slider-start.wav"
+    },
+    {
+      "path": "slider-tick.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "93e83c4af7cfc716eebd41b545f3ea448aaafb9e",
+      "file": "assets/slider-tick.wav"
+    },
+    {
+      "path": "sliderball.png",
+      "kind": "image",
+      "sizeBytes": 1304,
+      "sha1": "5d2d24b4e4296d8a8fcc8a590feaca5119e71fcc",
+      "file": "assets/sliderball.png"
+    },
+    {
+      "path": "sliderfollowcircle.png",
+      "kind": "image",
+      "sizeBytes": 2142,
+      "sha1": "6b9c014cda43046bafcb1198463d4bee11a2abbf",
+      "file": "assets/sliderfollowcircle.png"
+    },
+    {
+      "path": "ui-back.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "2203c38f0790bfd2eac57f65bd8991bd23c59090",
+      "file": "assets/ui-back.wav"
+    },
+    {
+      "path": "ui-pause.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "600da127645fb9aecb89053968e5a5c0b17a1a06",
+      "file": "assets/ui-pause.wav"
+    },
+    {
+      "path": "ui-start.wav",
+      "kind": "audio",
+      "sizeBytes": 92238,
+      "sha1": "b6c3c7a8266cb4113f9aa2b3cf80abad3afe1dfa",
+      "file": "assets/ui-start.wav"
+    }
+  ]
+}

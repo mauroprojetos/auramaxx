@@ -1,0 +1,12 @@
+id: totp-retrieval-seeded
+title: TOTP Retrieval Seeded
+mode: scripted
+clock:
+  baseTimeIso: '2026-02-16T12:00:00.000Z'
+assertions:
+  - id: totp-api
+    type: api
+    op: equals
+    endpoint: /credentials/:id/totp
+    path: code
+    expected: '123456'

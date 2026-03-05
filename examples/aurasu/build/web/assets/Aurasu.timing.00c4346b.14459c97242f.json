@@ -1,0 +1,48 @@
+{
+  "audioAsset": "Aurasu.wav",
+  "durationSec": 193.747302,
+  "analysis": {
+    "method": "librosa beat_track + tempogram",
+    "analyzedAt": "2026-03-04",
+    "notes": [
+      "Track is effectively constant tempo in 4/4.",
+      "Use firstBeatSec + n * beatPeriodSec for beat-grid alignment."
+    ]
+  },
+  "timing": {
+    "mode": "constant",
+    "meter": "4/4",
+    "bpm": 130.0,
+    "beatPeriodSec": 0.461538462,
+    "firstBeatSec": 0.441,
+    "chartLeadInBeats": 4,
+    "chartStartSec": 2.287153846,
+    "chartMainBeats": 190
+  },
+  "firstBeatTimestampsSec": [
+    0.441,
+    0.902538,
+    1.364077,
+    1.825615,
+    2.287154,
+    2.748692,
+    3.210231,
+    3.671769,
+    4.133308,
+    4.594846,
+    5.056385,
+    5.517923,
+    5.979462,
+    6.441,
+    6.902538,
+    7.364077,
+    7.825615,
+    8.287154,
+    8.748692,
+    9.210231,
+    9.671769,
+    10.133308,
+    10.594846,
+    11.056385
+  ]
+}

@@ -1,0 +1,39 @@
+# AuraMaxx
+> The Apple Keychain for AI agents.
+
+## Start Here
+- https://auramaxx.sh/
+- https://auramaxx.sh/yo
+- https://auramaxx.sh/docs
+- https://auramaxx.sh/api
+
+## Skills & MCP Setup
+- https://auramaxx.sh/docs/SKILLS.md
+- https://auramaxx.sh/docs/AGENT_SETUP.md
+- https://auramaxx.sh/docs/AGENT_SETUP.md#skills
+- https://auramaxx.sh/docs/AGENT_SETUP.md#mcp
+- https://auramaxx.sh/docs/MCP.md
+- https://auramaxx.sh/docs/CLI.md
+- https://github.com/Aura-Industry/auramaxx/blob/main/skills/auramaxx/SKILL.md
+
+## Legal
+- https://auramaxx.sh/privacy
+- https://auramaxx.sh/terms
+
+## Machine-Readable
+- https://auramaxx.sh/api/apps/manifests
+- https://auramaxx.sh/api/docs/plain
+- https://auramaxx.sh/api/version
+- https://auramaxx.sh/api/events
+
+## Repo Canonical Sources
+- skills/auramaxx/SKILL.md
+- docs/README.md
+- docs/AGENT_SETUP.md
+- docs/SKILLS.md
+- docs/CLI.md
+- docs/MCP.md
+- docs/AUTH.md
+- docs/security.md
+- docs/PROTOCOL.md
+- docs/ARCHITECTURE.md

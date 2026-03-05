@@ -1,0 +1,24 @@
+{
+  "name": "aurasu",
+  "version": "0.1.0",
+  "description": "A hit-circle rhythm game built with AuraJS.",
+  "type": "module",
+  "bin": {
+    "aurasu": "./bin/play.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "assets/",
+    "aura.config.json"
+  ],
+  "dependencies": {
+    "@auraindustry/aurajs": "0.0.2"
+  },
+  "keywords": [
+    "aurajs",
+    "game",
+    "rhythm"
+  ],
+  "license": "MIT"
+}

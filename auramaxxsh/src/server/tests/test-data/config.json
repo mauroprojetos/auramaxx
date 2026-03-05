@@ -1,0 +1,33 @@
+{
+  "chains": {
+    "base": {
+      "rpc": "https://mainnet.base.org",
+      "chainId": 8453,
+      "explorer": "https://basescan.org",
+      "nativeCurrency": "ETH"
+    },
+    "ethereum": {
+      "rpc": "https://eth.llamarpc.com",
+      "chainId": 1,
+      "explorer": "https://etherscan.io",
+      "nativeCurrency": "ETH"
+    },
+    "solana": {
+      "rpc": "https://api.mainnet-beta.solana.com",
+      "chainId": 0,
+      "explorer": "https://solscan.io",
+      "nativeCurrency": "SOL"
+    },
+    "solana-devnet": {
+      "rpc": "https://api.devnet.solana.com",
+      "chainId": 0,
+      "explorer": "https://solscan.io/?cluster=devnet",
+      "nativeCurrency": "SOL"
+    }
+  },
+  "defaultChain": "base",
+  "server": {
+    "port": 4242,
+    "host": "127.0.0.1"
+  }
+}

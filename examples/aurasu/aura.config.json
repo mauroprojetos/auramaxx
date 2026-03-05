@@ -1,0 +1,16 @@
+{
+  "identity": {
+    "name": "Aurasu",
+    "version": "0.1.0",
+    "executable": "aurasu",
+    "icon": "assets/aurasu1.jpg"
+  },
+  "window": {
+    "title": "Aurasu",
+    "width": 1280,
+    "height": 720,
+    "resizable": true,
+    "fullscreen": false,
+    "vsync": true
+  }
+}

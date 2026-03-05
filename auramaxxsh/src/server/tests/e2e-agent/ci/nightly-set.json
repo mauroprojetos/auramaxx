@@ -1,0 +1,7 @@
+[
+  "credential-create-basic",
+  "credential-read-basic",
+  "aura-onboarding-sanity",
+  "save-on-submit-accept",
+  "totp-retrieval-seeded"
+]

@@ -1,0 +1,22 @@
+{
+  "schema": "aurajs.build-manifest.v1",
+  "entrypoint": "js/game.bundle.js",
+  "assetsManifest": "assets-manifest.json",
+  "executable": "aurasu",
+  "assetMode": "sibling",
+  "runtimeResolver": "disk",
+  "identity": {
+    "name": "Aurasu",
+    "version": "0.1.0",
+    "windowTitle": "Aurasu",
+    "executableBaseName": "aurasu",
+    "executableFileName": "aurasu"
+  },
+  "icon": {
+    "configuredPath": "assets/aurasu1.jpg",
+    "sourcePath": "../../assets/aurasu1.jpg",
+    "outputPath": "meta/icon.jpg",
+    "status": "copied",
+    "reasonCode": "icon_copied"
+  }
+}

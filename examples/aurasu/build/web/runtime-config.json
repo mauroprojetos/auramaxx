@@ -1,0 +1,20 @@
+{
+  "schema": "aurajs.web-runtime-config.v1",
+  "schemaVersion": "1.0.0",
+  "canvas": {
+    "id": "aura-canvas",
+    "resizeMode": "fit-container",
+    "width": 1280,
+    "height": 720,
+    "devicePixelRatioMode": "clamped"
+  },
+  "loop": {
+    "tickMode": "raf",
+    "maxDeltaMs": 50
+  },
+  "modules": {
+    "physics": false,
+    "network": false,
+    "multiplayer": false
+  }
+}

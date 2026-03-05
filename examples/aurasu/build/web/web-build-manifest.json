@@ -1,0 +1,248 @@
+{
+  "schema": "aurajs.web-build-manifest.v1",
+  "schemaVersion": "1.0.0",
+  "buildTarget": "web",
+  "runtimeApiVersion": 1,
+  "entrypoints": {
+    "html": "index.html",
+    "loader": "js/aura-web-loader.js",
+    "bundle": "js/game.bundle.js",
+    "runtimeConfig": "runtime-config.json"
+  },
+  "assets": [
+    {
+      "path": "assets/approachcircle.5f12ddaa.2c6d82c71439.png",
+      "sourcePath": "approachcircle.png",
+      "bytes": 4782,
+      "sha256": "2c6d82c7143992d6f5c6069faec95d1b8eb272f6c05317f993a1da65391b179c",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/aurasu.65d4537f.d42984bca450.jpg",
+      "sourcePath": "aurasu.jpg",
+      "bytes": 466622,
+      "sha256": "d42984bca450d3a3758b29ea73415d0ee1135328e4278fd9382c14638211e169",
+      "mediaType": "image/jpeg"
+    },
+    {
+      "path": "assets/Aurasu.922fa16c.063e7d86683a.wav",
+      "sourcePath": "Aurasu.wav",
+      "bytes": 34177102,
+      "sha256": "063e7d86683ab8f4ec9df391567a68e6503cb4f52ba5923e99f856a0ed66b249",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/Aurasu.note-timings.477c19d6.c3eafffc6401.csv",
+      "sourcePath": "Aurasu.note-timings.csv",
+      "bytes": 11606,
+      "sha256": "c3eafffc64017c5c1a9fae86b64f49bafd38466fadddc07f2cbd7aa6e079770a",
+      "mediaType": "text/plain; charset=utf-8"
+    },
+    {
+      "path": "assets/Aurasu.timing.00c4346b.14459c97242f.json",
+      "sourcePath": "Aurasu.timing.json",
+      "bytes": 903,
+      "sha256": "14459c97242f19abee0f8960f285c45202df6d80142eff0bbb00071c2e6e0a00",
+      "mediaType": "application/json"
+    },
+    {
+      "path": "assets/aurasu1.c49809b1.d42984bca450.jpg",
+      "sourcePath": "aurasu1.jpg",
+      "bytes": 466622,
+      "sha256": "d42984bca450d3a3758b29ea73415d0ee1135328e4278fd9382c14638211e169",
+      "mediaType": "image/jpeg"
+    },
+    {
+      "path": "assets/combo-break.5c365828.bdd62bd64243.wav",
+      "sourcePath": "combo-break.wav",
+      "bytes": 92238,
+      "sha256": "bdd62bd64243d3503c47297d5c394307f89b54a044b39720f4cb6260d9ebc2ef",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/cursor.3def7ec4.8b5aa17ae525.png",
+      "sourcePath": "cursor.png",
+      "bytes": 666,
+      "sha256": "8b5aa17ae52585033db802319493c758e54196560c0edfe9cf4fbcdf77840d2c",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/cursortrail.d8647aa2.86a5a05a7ab7.png",
+      "sourcePath": "cursortrail.png",
+      "bytes": 450,
+      "sha256": "86a5a05a7ab743f06a9dc1210eb0057b77895e2f0a575dc9453f2a0c0a656aeb",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/followpoint.dcfce49c.1d0a149fa124.png",
+      "sourcePath": "followpoint.png",
+      "bytes": 420,
+      "sha256": "1d0a149fa124437d34243ba824a25a7d5ebf0f5507657c69271654a56af41eb6",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/GeneralSans-Bold.4f2220b3.88bff1f629ba.otf",
+      "sourcePath": "GeneralSans-Bold.otf",
+      "bytes": 43260,
+      "sha256": "88bff1f629ba18f1342250753648b9e74196b8a2229fbf2f53d602d787fd23fc",
+      "mediaType": "application/octet-stream"
+    },
+    {
+      "path": "assets/GeneralSans-BoldItalic.0b219463.6f94e46d463f.otf",
+      "sourcePath": "GeneralSans-BoldItalic.otf",
+      "bytes": 45060,
+      "sha256": "6f94e46d463ff49032a4efa9adfbd48599eeb2a9e06c2932f696769958beb30e",
+      "mediaType": "application/octet-stream"
+    },
+    {
+      "path": "assets/hit-clap.922488a8.bbd2cc8b753e.wav",
+      "sourcePath": "hit-clap.wav",
+      "bytes": 192078,
+      "sha256": "bbd2cc8b753ea81ead8ea3c55353b10fc257297d0cae860ac38a1cf5de9d9441",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/hit-finish.cc351639.532ce83d4e07.wav",
+      "sourcePath": "hit-finish.wav",
+      "bytes": 192078,
+      "sha256": "532ce83d4e079e14af2cf2ac831ce4b6bb8b03c671db7d5eff6d34fbc3d07f41",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/hit-miss.2f0a05b7.7aad197a17eb.wav",
+      "sourcePath": "hit-miss.wav",
+      "bytes": 92238,
+      "sha256": "7aad197a17eb4eddbbf484fba8c6f9ac923c5ce0310dadf4250cd2092edbea3f",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/hit-normal.818f42fd.470b5588d1fd.wav",
+      "sourcePath": "hit-normal.wav",
+      "bytes": 192078,
+      "sha256": "470b5588d1fdab8787da70a0997d271ecf60d6977cf5bb8da99bd1cc38463979",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/hit-whistle.b29bf740.ae2c0f0c0dcd.wav",
+      "sourcePath": "hit-whistle.wav",
+      "bytes": 192078,
+      "sha256": "ae2c0f0c0dcd4a0b045626e7c4472317f38211bf441f22684d9b923589090eb7",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/hitburst_sheet.99f9eba8.53a6da41c9f0.png",
+      "sourcePath": "hitburst_sheet.png",
+      "bytes": 4237,
+      "sha256": "53a6da41c9f09ce355e97996cbf54257040a37fdb49bf8a4243523c9a8a06ab8",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/hitcircle.4b5ac18b.e8ff0377e703.png",
+      "sourcePath": "hitcircle.png",
+      "bytes": 4960,
+      "sha256": "e8ff0377e703fea7de7b0ea3caa90cd66229a03992f2b8b20e72e9ea7dab5d18",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/hitcircleoverlay.67cff026.f22b6d948a1d.png",
+      "sourcePath": "hitcircleoverlay.png",
+      "bytes": 4785,
+      "sha256": "f22b6d948a1d5cbab431a4eea8eae335e2e3c7810c664cad36767ceb8b81d9b4",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/icon.452a6264.f63784b866f1.png",
+      "sourcePath": "icon.png",
+      "bytes": 574673,
+      "sha256": "f63784b866f19e3e2373304fd30c9ea119418d8b074b4a12a5ece00b766f4c87",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/judgement-100.3e535031.2c53ce97d3fa.png",
+      "sourcePath": "judgement-100.png",
+      "bytes": 1893,
+      "sha256": "2c53ce97d3faaac33efe5ba5c76c22b2c5fb02ad0752ebcb3c7327160851a7da",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/judgement-300.2cd47c6a.6c93e030a29e.png",
+      "sourcePath": "judgement-300.png",
+      "bytes": 2636,
+      "sha256": "6c93e030a29e396665ca05729ab0911d5ff0eaec7e2f1bd1c281a25929da89ad",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/judgement-50.27e56ca7.96bb4585893d.png",
+      "sourcePath": "judgement-50.png",
+      "bytes": 2286,
+      "sha256": "96bb4585893d60e97e37bd50b1298e3d8ba76b2cea7d81066d44b5840af791eb",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/judgement-miss.a7df136d.03c73f0c1c93.png",
+      "sourcePath": "judgement-miss.png",
+      "bytes": 2524,
+      "sha256": "03c73f0c1c9342c813da2262df8842694d76189283f158979c7f0d7b47dc03c6",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/slider-end.f428b124.3093c2cd469a.wav",
+      "sourcePath": "slider-end.wav",
+      "bytes": 92238,
+      "sha256": "3093c2cd469ad765f363f899e2857c53e297f3a68ee90ce310a021f5c8c1d31e",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/slider-start.44fd83dc.98eed9f97fac.wav",
+      "sourcePath": "slider-start.wav",
+      "bytes": 92238,
+      "sha256": "98eed9f97facfb64c86e92fc33608a4042179dd3d0e3e57b1730b51ef3cf3b53",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/slider-tick.bbe7dfeb.b87bf785116b.wav",
+      "sourcePath": "slider-tick.wav",
+      "bytes": 92238,
+      "sha256": "b87bf785116bbd98656e9907c72bd2165057af27351574771029b5b5f8b5a52b",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/sliderball.4040726b.bdd6e905bf9e.png",
+      "sourcePath": "sliderball.png",
+      "bytes": 1304,
+      "sha256": "bdd6e905bf9efef10cb412047b4b921b69170013a4c0731d1ee2513e6ede433f",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/sliderfollowcircle.70fa09ee.7f0f8344db9f.png",
+      "sourcePath": "sliderfollowcircle.png",
+      "bytes": 2142,
+      "sha256": "7f0f8344db9fda1d6b3d0c6a45e36ae51d5198b7613deee326a85e67cd2f413b",
+      "mediaType": "image/png"
+    },
+    {
+      "path": "assets/ui-back.9f0d8731.a4e071c73866.wav",
+      "sourcePath": "ui-back.wav",
+      "bytes": 92238,
+      "sha256": "a4e071c73866aa94a7e34a636c18aff4a9c83a4bd3d5333f63f07704e982b793",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/ui-pause.a00d4d0d.39ee3ae1b64f.wav",
+      "sourcePath": "ui-pause.wav",
+      "bytes": 92238,
+      "sha256": "39ee3ae1b64f7d2ca87a5e811cf835836ce55dcb38825e8d04af1d6d7838abe8",
+      "mediaType": "audio/wav"
+    },
+    {
+      "path": "assets/ui-start.9303fde9.cb05845dd6b5.wav",
+      "sourcePath": "ui-start.wav",
+      "bytes": 92238,
+      "sha256": "cb05845dd6b50fdf8c72fba599cf78bdcd8ab1d2126732ce1fc5d7d58ab8e54b",
+      "mediaType": "audio/wav"
+    }
+  ],
+  "integrity": {
+    "manifestSha256": "e9878e1a64a0b64f7798f9cfe3d743f14faa288e9f652eaa5977fff88f5356ef"
+  }
+}

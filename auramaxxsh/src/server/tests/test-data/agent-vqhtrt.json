@@ -1,0 +1,14 @@
+{
+  "address": "0xa1cF0ac98CDf60D9B7666c8c9Ed1739eda33C527",
+  "solanaAddress": "Fc2xdmbowid9rHJCSf8Vo6XJjYuwKaXB4N5Haf2tGQbf",
+  "encrypted": {
+    "ciphertext": "241e531fc581377490b06e3fe722b1c252df5bd106584fd455cb7da20e27f939bf9110e9e33401d17eb586488cd89fa4ac3794b6b11ef5ff7bd253a5af764a96384dcbf1629f5564217dec1a516d21e6f84b",
+    "iv": "37fba7ecacbc5088a09a3a19",
+    "salt": "a15254ee1e9979083a9d30d9438d8ef87177a67126e9be334518bfac0299ffdd",
+    "mac": "e742644e1f8bec1ac907499e5babfe56"
+  },
+  "createdAt": "2026-02-23T20:31:47.552Z",
+  "name": "daily-logs",
+  "mode": "linked",
+  "linkedTo": "e1ica7"
+}
